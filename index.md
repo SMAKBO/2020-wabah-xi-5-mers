@@ -1,4 +1,3 @@
-<!DOCTYPE html>
 <html>
 <head>
 	<title> Penjabaran Tentang Wabah Smallpox </title>
@@ -88,7 +87,7 @@
       </ul>
     </div>
 	 
-	 </html>
+	
 
 	
 
