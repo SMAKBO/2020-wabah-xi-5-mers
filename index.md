@@ -5,7 +5,7 @@
 </head>
 <body>
 
-    <h1>Explaination of Smallpox Pandemic.</h1>
+    <h1>Explanation of Smallpox Pandemic.</h1>
     
   <img src="Logo.jpg" width="200px" height="200px" id="image">
 
