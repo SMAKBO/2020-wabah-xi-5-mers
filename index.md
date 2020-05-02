@@ -1,24 +1,14 @@
 ## Explaination of Smallpox Pandemic.
-
 <head>
 	<title> Tentang Wabah </title>
 </head>
 <body>
 
     <h1>Smallpox</h1>
-  </div>
-  <div id="navcontainer">
-    <ul id="navlist">
-      <li><a href="index.html">Home </a></li>
-      <li><a href="wabah.html">Wabah</a></li>
-      <li><a href="kasus.html">Kasus Penyebaran</a></li>
-      <li><a href="penanggulangan.html">Penanggulangan</a></li>
-      <li><a href="aboutus.html">About Us</a></li>
-    </ul>
-  </div>
+  
 
-	<h2> Gejala </h1>
-	<h3> Gejala Cacar Air</h2>
+	<h2> Gejala </h2>
+	<h3> Gejala Cacar Air</h3>
 	<p> Gejala cacar air adalah ruam merah di perut atau punggung. Selain itu, cacar air juga ditandai dengan beberapa gejala lain seperti:</p>
 	   <div class="navlist">
       <ul>
@@ -84,9 +74,7 @@
       </ul>
     </div>
 	 
-</body>
-</html>
-	
+
 	
 
 	
