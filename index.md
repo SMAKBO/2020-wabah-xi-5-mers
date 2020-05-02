@@ -44,7 +44,7 @@
 	<p>Dunia belahan mana yang tak tersentuh Smallpox? Hampir semua daerah di muka Bumi pernah merasakan ngerinya virus ini. Berawal dari Mesir, virus ini menyebar ke India, kemudian Tiongkok, Jepang, lalu ke wilayah Asia Tenggara. Eropa juga terjangkiti bahkan hampir semua daerahnya. Dari Eropa, Smallpox menyebar lagi ke Amerika dan juga Australia. Virus Smallpox mungkin lebih kecil dari batu kerikil sekalipun, tapi ia bisa memberikan teror yang benar-benar mendunia. Sejarah mencatat beberapa kali Smallpox dikemas menjadi senjata-senjata mematikan dalam perang Salah satu yang paling diingat adalah ketika Inggris menggunakan Smallpox untuk menghajar para Indian. Hasilnya benar-benar sangat fatal. Ketika itu, penghuni asli benua Amerika tersebut mengalami penurunan jumlah penduduk yang drastis. Setidaknya lebih dari 50 persen orang Indian meninggal lantaran Smallpox. Tak hanya itu, di Perang Dunia II senjata biologis berupa Smallpox juga terbukti digunakan oleh Inggris, Amerika Serikat, dan juga Jepang.</p>
 
 	<h2>Peta persebaran smallpox</h2>
-	<img src="peta.png" align="center" width="600px" height="325px">
+	<img src="peta.png" align="center" width="600px" height="325px" id="pic">
 	
 	
 	<h2><font size="5">Penanggulangan</font></h2>
