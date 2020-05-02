@@ -3,7 +3,7 @@
 	<title> Tentang Wabah </title>
 </head>
 <body>
-	<img src="logo.jpg" width"200px" height="200px" id="img">
+	<img src="Logo.jpg" width"200px" height="200px" id="img">
 
     <h1>Explaination of Smallpox Pandemic.</h1>
   
