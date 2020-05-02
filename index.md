@@ -5,7 +5,8 @@
 <body>
 
     <h1>Explaination of Smallpox Pandemic.</h1>
-  <img src="Logo.jpg" width"200px" height="200px" id="img">
+    
+  <img src="Logo.jpg" width"200px" height="200px">
 
 	<h2> Gejala </h2>
 	<h3> Gejala Cacar Air</h3>
