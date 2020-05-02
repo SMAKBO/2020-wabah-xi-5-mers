@@ -53,7 +53,7 @@
  <ol>
  	<li>Melakukan vaksinasi</li>
  	<p>Ini merupakan salah satu cara terbaik untuk mencegah cacar. Jika diberikan kepada seseorang sebelum terpapar cacar, vaksin benar-benar efektif untuk melindungi mereka. Vaksin cacar saat ini berlisensi, yang terdiri dari strain laboratorium virus vaccinia, sangat efektif dalam mencegah infeksi.Para ahli medis percaya vaksin dapat mengurangi keparahan, atau bahkan mencegah penyakit pada orang yang belum divaksinasi jika diberikan dalam waktu 4 hari setelah terpapar virus.</p>
- 	<li>Memberikan keringan biaya pengobatan bagi masyarakat terinfeksi.</li>
+ 	<li>Memberikan keringan biaya pengobatan bagi masyarakat terinfeksi.</li> <br>
  	<li>Menghimbau masyrakat untuk lebih berhati-hati dan membiasakan gaya hidup bersih.</li>
  </ol>
     <h3><font size="3"> Bagaimana kesadaran masyarakat..?</font></h3>
