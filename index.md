@@ -1,6 +1,7 @@
 <html>
 <head>
 	<title> Tentang Wabah </title>
+	<link rel="stylesheet" href="css.css">
 </head>
 <body>
 
