@@ -1,6 +1,7 @@
+<!DOCTYPE html>
 <html>
 <head>
-	<title> Tentang Wabah </title>
+	<title> Penjabaran Tentang Wabah Smallpox </title>
 	<link rel="stylesheet" href="css.css">
 </head>
 <body>
@@ -87,6 +88,7 @@
       </ul>
     </div>
 	 
+	 </html>
 
 	
 
