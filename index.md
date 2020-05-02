@@ -1,6 +1,6 @@
 ## Explaination of Smallpox Pandemic.
 <head>
-	<img src="Logo.jpg" align="center" width="200px" height="200px"> <title> Tentang Wabah </title>
+	<title> Tentang Wabah </title>
 </head>
 <body>
 
