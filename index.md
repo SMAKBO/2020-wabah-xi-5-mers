@@ -1,10 +1,11 @@
-## Explaination of Smallpox Pandemic.
+<html>
 <head>
 	<title> Tentang Wabah </title>
 </head>
 <body>
+	<img src="logo.jpg" width"200px" height="200px" id="img">
 
-    <h1>Smallpox</h1>
+    <h1>Explaination of Smallpox Pandemic.</h1>
   
 
 	<h2> Gejala </h2>
@@ -72,7 +73,7 @@
      
       </ul>
     </div>
-	 
+	 </html>
 
 	
 
