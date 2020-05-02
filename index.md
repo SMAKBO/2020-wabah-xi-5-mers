@@ -1,6 +1,6 @@
 ## Explaination of Smallpox Pandemic.
 <head>
-	<title> Tentang Wabah </title>
+	<img src="Logo.jpg" align="left"> <title> Tentang Wabah </title>
 </head>
 <body>
 
@@ -17,21 +17,20 @@
           <li> Lemas </li>
            <li> Nyeri Tenggorokan </li>
       </ul>
-      </p>
     </div>
  
- 	<h2> Pencegahan </h1>
- 	<h3> Pencegahan Smallpox </h2>
+ 	<h2> Pencegahan </h2>
+ 	<h3> Pencegahan Smallpox </h3>
  	<p> Pengobatan cacar air bertujuan untuk mengurangi keparahan gejala yang dialami oleh pasien, dengan atau tanpa bantuan obat. Ada beberapa pengobatan mandiri yang bisa dilakukan untuk meringankan gejala, yaitu:
  		<ul>
-			</li>Perbanyak minum dan mengonsumsi makanan yang lembut.</li>
+			<li>Perbanyak minum dan mengonsumsi makanan yang lembut.</li>
 			<li>Tidak menggaruk ruam atau luka cacar air.</li>
 			<li>Mengenakan pakaian berbahan lembut dan ringan</li>
 		</ul>
 		</p>
 
-	<h2> Pengobatan </h1>
-	<h3> Pengobatan Smallpox </h2>
+	<h2> Pengobatan </h2>
+	<h3> Pengobatan Smallpox </h3>
 	<p> Sebagai upaya pencegahan penyakit cacar air, dianjurkan untuk melakukan vaksinasi cacar air atau vaksin varicella. Di Indonesia sendiri, vaksinasi cacar air tidak termasuk dalam daftar imunisasi rutin lengkap, tapi tetap dianjurkan untuk diberikan. </p>
 	
 	<h2>Awal mula virus smallpox</h2>
