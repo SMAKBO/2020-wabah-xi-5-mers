@@ -1,8 +1,9 @@
 <html>
 <head>
+	image: 12345678.jpg
 	<title> Penjabaran Tentang Wabah Smallpox </title>
 	<link rel="stylesheet" href="css.css">
-	image: 12345678.jpg
+	
 </head>
 <body>
 
