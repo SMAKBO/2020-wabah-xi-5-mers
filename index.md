@@ -3,6 +3,15 @@
 	<title> Penjabaran Tentang Wabah Smallpox </title>
 	<link rel="stylesheet" href="css.css">
 	
+	<div id="navcontainer">
+    <ul id="navlist">
+      <li><a href="index.html">Home </a></li>
+      <li><a href="wabah.html">Wabah</a></li>
+      <li><a href="kasus.html">Kasus Penyebaran</a></li>
+      <li><a href="penanggulangan.html">Penanggulangan</a></li>
+      <li><a href="aboutus.html">About Us</a></li>
+    </ul>
+  </div>
 	
 </head>
 <body>
