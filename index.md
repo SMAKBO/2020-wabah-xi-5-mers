@@ -1,13 +1,12 @@
 <html>
 <head>
-	<img src="12345678.jpg" width="900px" height="700px" opacity="0.6">
 	<title> Penjabaran Tentang Wabah Smallpox </title>
 	<link rel="stylesheet" href="css.css">
 	
 </head>
 <body>
 
-    <h1>Explanation of Smallpox Pandemic.</h1>
+    <h1>The Explanation of Smallpox Pandemic.</h1>
 
 	<h2> Gejala </h2>
 	<h3> Gejala Cacar Air</h3>
