@@ -1,6 +1,6 @@
 <html>
 <head>
-	image: 12345678.jpg
+	<img src="12345678.jpg">
 	<title> Penjabaran Tentang Wabah Smallpox </title>
 	<link rel="stylesheet" href="css.css">
 	
