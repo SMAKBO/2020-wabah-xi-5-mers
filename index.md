@@ -4,7 +4,7 @@
 	<link rel="stylesheet" href="css.css">
 	
 	<div id="navcontainer">
-    <ul>
+    <ul id="navlist">
       <li><a href="index.html">Home </a></li>
       <li><a href="wabah.html">Wabah</a></li>
       <li><a href="kasus.html">Kasus Penyebaran</a></li>
