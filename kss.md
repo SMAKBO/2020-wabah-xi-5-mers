@@ -1,3 +1,4 @@
+---
 title: Kasus Penyebaran
 layout:
 <h2>Kasus Penyebaran</h2>
@@ -11,3 +12,4 @@ layout:
 
 	<h3>Peta persebaran smallpox</h3>
 	<img src="peta.png" align="center" width="600px" height="325px" id="pic">
+	---
