@@ -3,6 +3,19 @@
 	<title> Penjabaran Tentang Wabah Smallpox </title>
 	<link rel="stylesheet" href="css.css">
 	
+	<div class="w3-top">
+  <div class="w3-bar" id="myNavbar">
+    <a class="w3-bar-item w3-button w3-hover-black w3-hide-medium w3-hide-large w3-right" href="javascript:void(0);" onclick="toggleFunction()" title="Toggle Navigation Menu">
+      <i class="fa fa-bars"></i>
+    </a>
+    <a href="index.html" class="w3-bar-item w3-text-black w3-hover-text-white w3-hover-black w3-button"></i> Home</a>
+    <a href="tentang wabah.html" class="w3-bar-item w3-text-black w3-button w3-hover-text-white w3-hover-black w3-hide-small"> Tentang Avian Influenza</a>
+    <a href="penyebaran.html" class="w3-bar-item w3-text-black w3-button w3-hover-text-white w3-hover-black w3-hide-small "> Penyebaran</a>
+    <a href="penanggulangan.html" class="w3-bar-item w3-text-black w3-button w3-hover-text-white w3-hover-black w3-hide-small"> Penanggulangan</a>
+    <a href="about us.html" class="w3-bar-item w3-button w3-text-black w3-hide-small w3-right"> About Us</a>
+    </a>
+  </div>
+	
 </head>
 <body>
 
