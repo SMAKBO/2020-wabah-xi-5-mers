@@ -9,7 +9,13 @@ p{
 }
 
 
-#image{
-	border-radius: 50%;
+#navcontainer{
+	position:fixed;
+	width:200px;
+	height:100%;
 }
-
+ #navcontainer ul li {
+	list-style:none;
+	padding:15px 10px;
+	border-bottom: 1px solid rgba(100,100,100.0.3)
+}
