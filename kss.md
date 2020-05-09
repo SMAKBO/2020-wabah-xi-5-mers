@@ -1,0 +1,13 @@
+title: Kasus Penyebaran
+layout:
+<h2>Kasus Penyebaran</h2>
+	<h3>Awal mula virus smallpox</h3>
+
+	<p>Virus smallpox adalah salah satu penyakit tertua yang menginfeksi manusia. Setelah berevolusi dari virus yang menginfeksi hewan lain, virus-virus tersebut pertama kali menyebar di antara masyarakat Eropa dan Afrika Utara ribuan tahun yang lalu. Virus-virus ini kemudian dibawa oleh orang Eropa ke benua Amerika pada masa penaklukan Spanyol. Penduduk asli Amerika tidak memiliki kekebalan alami terhadap virus-virus tersebut, sehingga jutaan dari mereka meninggal karenanya. Kalau melihat sejarahnya, Smallpox ternyata bukan ada beberapa abad lalu, melainkan sudah lama sekali. Hal ini diyakini oleh para peneliti yang secara pasti menemukan virus sejenis Smallpox di mumi Ramses V. Kalau dilihat dari waktu eksistensinya, Ramses V hidup setidaknya 3.000 tahun sebelum masehi. Jadi, bisa dibilang Smallpox juga berumur setua itu. Di Tiongkok, virus ini sudah ada sejak 1122 tahun sebelum masehi dengan bukti tulisan-tulisan serta kisah-kisah yang ada. Tak hanya di sini, India pun juga dijajah Smallpox sejak lama. Bahkan orang-orang sana dulu sampai menyembah dewa yang bernama Sitala Mata yang dianggap sebagai Dewi-nya Smallpox.</p>
+
+	<h3>Kawasan yang pernah terinfeksi virus smallpox</h3>
+
+	<p>Dunia belahan mana yang tak tersentuh Smallpox? Hampir semua daerah di muka Bumi pernah merasakan ngerinya virus ini. Berawal dari Mesir, virus ini menyebar ke India, kemudian Tiongkok, Jepang, lalu ke wilayah Asia Tenggara. Eropa juga terjangkiti bahkan hampir semua daerahnya. Dari Eropa, Smallpox menyebar lagi ke Amerika dan juga Australia. Virus Smallpox mungkin lebih kecil dari batu kerikil sekalipun, tapi ia bisa memberikan teror yang benar-benar mendunia. Sejarah mencatat beberapa kali Smallpox dikemas menjadi senjata-senjata mematikan dalam perang Salah satu yang paling diingat adalah ketika Inggris menggunakan Smallpox untuk menghajar para Indian. Hasilnya benar-benar sangat fatal. Ketika itu, penghuni asli benua Amerika tersebut mengalami penurunan jumlah penduduk yang drastis. Setidaknya lebih dari 50 persen orang Indian meninggal lantaran Smallpox. Tak hanya itu, di Perang Dunia II senjata biologis berupa Smallpox juga terbukti digunakan oleh Inggris, Amerika Serikat, dan juga Jepang.</p>
+
+	<h3>Peta persebaran smallpox</h3>
+	<img src="peta.png" align="center" width="600px" height="325px" id="pic">
