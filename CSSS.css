@@ -1,0 +1,45 @@
+body{
+	background-image: url("img/third-bg.png"); 
+}
+
+#image{
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+p{
+	text-align: justify;
+	color: paleturquoise;
+	font-family: "Courier New"
+}
+
+h1{ 
+	text-align: center;
+	color: lightcoral;
+	font-family: "Lucida Console", Courier, monospace;
+	font-size: 40px;
+}
+
+h2{
+	text-align: left;
+	color: azure;
+	font-family: "kristen itc";
+}
+
+#pic{
+	margin-right: none;
+	margin-left: none;
+}
+
+ul{
+	color: lavender;
+	font-family: "Verdana"
+	font-size: 15px;
+}
+
+ol{
+	color: lavender;
+	font-family: "Verdana"
+	font-size: 15px;
+}
